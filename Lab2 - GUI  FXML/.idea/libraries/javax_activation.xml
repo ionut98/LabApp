@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javax.activation">
+    <CLASSES>
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/javax.activation.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/javax.mail-api-1.6.0.jar!/" />
+      <root url="jar://$APPLICATION_HOME_DIR$/jre64/lib/javax.mail.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/javax.mail-api-1.6.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

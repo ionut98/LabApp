@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.effect.Bloom?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.LinearGradient?>
+<?import javafx.scene.paint.Stop?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8.0.121" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <ImageView fitHeight="409.0" fitWidth="649.0" layoutX="-31.0" layoutY="-6.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../Slideshow-Background.jpg" />
+         </image></ImageView>
+      <BarChart layoutX="28.0" layoutY="23.0" prefHeight="170.0" prefWidth="227.0" title="     Medii">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+         <effect>
+            <Bloom />
+         </effect>
+      </BarChart>
+      <BarChart layoutX="344.0" layoutY="23.0" prefHeight="170.0" prefWidth="220.0" title="     Penalizari Studenti">
+        <xAxis>
+          <CategoryAxis side="BOTTOM" />
+        </xAxis>
+        <yAxis>
+          <NumberAxis side="LEFT" />
+        </yAxis>
+         <effect>
+            <Bloom />
+         </effect>
+      </BarChart>
+      <BarChart layoutX="213.0" layoutY="197.0" prefHeight="195.0" prefWidth="227.0" title="Penalizari Teme">
+         <xAxis>
+            <CategoryAxis side="BOTTOM" />
+         </xAxis>
+         <yAxis>
+            <NumberAxis side="LEFT" />
+         </yAxis>
+         <effect>
+            <Bloom />
+         </effect>
+      </BarChart>
+       <Label layoutX="447.0" layoutY="281.0" prefHeight="43.0" prefWidth="139.0" text="Statistici">
+           <textFill>
+               <LinearGradient endX="0.24761904761904763" endY="0.21904761904761905" startY="1.0">
+                   <stops>
+                       <Stop color="BLACK" />
+                       <Stop color="WHITE" offset="1.0" />
+                   </stops>
+               </LinearGradient>
+           </textFill>
+           <font>
+               <Font name="Cambria Bold" size="32.0" />
+           </font></Label>
+   </children>
+</AnchorPane>

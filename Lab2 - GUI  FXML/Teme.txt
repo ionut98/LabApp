@@ -1,0 +1,6 @@
+1;5;Adaugati un element in repo.
+3;9;Stergeti toate aparitiile unui cuvant din string.
+4;9;Adaugati toate elementele intr-o lista.
+5;12;Backtracking
+2;7;Stergeti elementele din repo.
+10;13;Divide et Impera

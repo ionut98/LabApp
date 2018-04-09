@@ -1,0 +1,6 @@
+1;George;225;george@yahoo.com;Marian
+2;Adriana;225;adr@gmail.com;Marian
+6;GeorgeM;225;george1@yahoo.com;Marian
+7;Ionut;225;ionutmihoci@yahoo.com;Grigo
+5;Edi;225;onu_edy@yahoo.com;Maria
+10;Horia;221;horia@gmail.com;Mihaila

@@ -1,0 +1,4 @@
+Adaugare nota--Nr Tema:1--Nota:10.0--Deadline:5--A fost predata in saptamana:4
+Adaugare nota--Nr Tema:2--Nota:8.0--Deadline:6--A fost predata in saptamana:3
+Adaugare nota--Nr Tema:3--Nota:7.0--Deadline:9--A fost predata in saptamana:3
+Modificare nota--Nr Tema:3--Nota:8.0--Deadline:9--A fost predata in saptamana:4--Obs: Tema imbunatatita
